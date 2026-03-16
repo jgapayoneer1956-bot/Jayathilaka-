@@ -1,0 +1,7 @@
+{
+  "name": "Vaastu Flora",
+  "description": "A comprehensive guide for indoor and outdoor plants featuring Sinhala and English search, Vastu-based placement rules, Five Elements mapping, and safety warnings for kids and pets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
